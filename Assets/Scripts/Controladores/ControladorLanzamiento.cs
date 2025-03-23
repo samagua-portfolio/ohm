@@ -17,7 +17,7 @@ public class ControladorLanzamiento : MonoBehaviour
 
     private void EstablecerVersion()
     {
-        objLabel.GetComponent<Text>().text = "release-2025-0323-000000";
+        objLabel.GetComponent<Text>().text = "release-2025-0323-010000";
     }
     #endregion
 }
